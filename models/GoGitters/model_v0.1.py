@@ -1,4 +1,4 @@
-#mcandrew, Team Member's Name 1, Team Member's Name 2, Team Member's Name 3
+#mcandrew, liu, nelson
 
 import sys
 import numpy as np
