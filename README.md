@@ -1,6 +1,4 @@
-# Syndromic Surveillance and Ensemble forecasting for the Commonwealth of Pennsylvania
-
-
+# Syndromic Surveillance and Ensemble forecasting for the Commonwealth of Pennsylvania.
 ## Goal
 Our short-term goal is to rapidly build an integrated surveillance and forecasting system to support public health decision making for the Commonwealth of Pennsylvania (PA). We aim to integrate an array of federal and state level cases data, meteorological and environmental data, pharmaceutical sales, electronic health records data, and human judgment into an ensemble of mechanistic and statistical forecasting models. Our overall objective is to build an integrated surveillance system to better inform public health officials for the state of PA. We hypothesize an ensemble forecast trained on high-resolution real-time data from a variety of sources will support public health decision making and reduce the impact of COVID-19 on the state of PA. To meet our overall objective and test the above hypothesis, we plan to pursue the following aims:
 

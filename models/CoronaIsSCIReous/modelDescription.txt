@@ -1,0 +1,14 @@
+Team name: CoronaIsSCIReous
+Team members: Tariq Al-Serhan, Jailene Garcia, Nic Altenderfer
+
+Model Description Short: SCIR Model
+
+Model Description Long:
+
+ - Model assumptions
+
+ - Model pros and cons
+
+ - What data sources did you use
+
+ - What variables from those data sources did you use. Why?

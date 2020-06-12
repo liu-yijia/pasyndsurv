@@ -1,0 +1,15 @@
+Team name: CovidSeers
+Team members: Poplar, Andrew
+
+Model Description Short: A KNN model to forecast the number of new
+COVID-19 Cases
+
+Model Description Long:
+
+ - Model assumptions
+
+ - Model pros and cons
+
+ - What data sources did you use
+
+ - What variables from those data sources did you use. Why?

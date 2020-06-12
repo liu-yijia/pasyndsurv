@@ -1,0 +1,16 @@
+Team name: covidCrushers
+Team members: Kenny Lin, Alex Kline
+
+Model Description Short: to be completed
+
+test 
+
+Model Description Long:
+
+ - Model assumptions
+
+ - Model pros and cons
+
+ - What data sources did you use
+
+ - What variables from those data sources did you use. Why?

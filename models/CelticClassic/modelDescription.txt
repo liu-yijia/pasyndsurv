@@ -1,0 +1,14 @@
+Team name: Celtic Classic
+Team members: Damon Luk, Martin Magazzolo 
+
+Model Description Short: A SIR model to forecast the number of new COVID-19 cases
+
+Model Description Long:
+
+-Model Assumptions
+
+-Model Pros and Cons
+
+-Data Sources used
+
+-Variables from data sources used
