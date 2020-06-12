@@ -1,4 +1,4 @@
-#mcandrew, liu, nelson
+#mcandrew, Eunice and Michael
 
 import sys
 import numpy as np
